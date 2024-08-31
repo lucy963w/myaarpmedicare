@@ -1,8 +1,8 @@
-# myAARP Medicare
+# myaarpmedicare
 
-## Description
+myaarpmedicare is a web application designed to help users navigate their Medicare plans with ease. This application provides a streamlined interface for AARP members to view, manage, and optimize their Medicare plans. Whether users need to check their coverage, track their healthcare expenses, or find helpful resources, myAARP Medicare makes it easy and convenient. 
 
-myAARP Medicare is a web application designed to help users navigate their Medicare plans with ease. This application provides a streamlined interface for AARP members to view, manage, and optimize their Medicare plans. Whether users need to check their coverage, track their healthcare expenses, or find helpful resources, myAARP Medicare makes it easy and convenient. The platform is built with a focus on simplicity, accessibility, and user experience, ensuring that users can manage their Medicare needs without hassle.
+The platform is built with a focus on simplicity, accessibility, and user experience, ensuring that users can manage their Medicare needs without hassle.
 
 ## Features
 
@@ -28,7 +28,9 @@ myAARP Medicare is a web application designed to help users navigate their Medic
 - **Email**: lucy963white@outlook.com
 - **Website**: myAARP Medicare
 
-Lucy White is a software developer with over 10 years of experience in full-stack development. She has a strong background in creating user-friendly applications and is dedicated to delivering high-quality software solutions. Lucy is known for her expertise in coding, her collaborative spirit, and her commitment to helping others succeed in their projects.
+- Lucy White is a software developer with over 10 years of experience in full-stack development. 
+- She has a strong background in creating user-friendly applications and is dedicated to delivering high-quality software solutions. 
+- Lucy is known for her expertise in coding, her collaborative spirit, and her commitment to helping others succeed in their projects.
 
 ## Getting Started
 
